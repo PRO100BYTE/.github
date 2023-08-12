@@ -9,4 +9,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=18&pause=500&color=FFFFFF&vCenter=true&repeat=false&width=500&height=18&lines=%D0%9D%D0%B0%D1%88%D0%B8+%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)](https://git.io/typing-svg)
 
 - **Наш сайт:** https://pro100byte.ru
-- **Наш e-mail:** github@pro100byte.ru
+- **Наш e-mail:** community@pro100byte.ru
