@@ -33,9 +33,7 @@
 
 ![](https://komarev.com/ghpvc/?username=PRO100BYTE&style=for-the-badge&color=blue)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PRO100BYTE)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRO100BYTE)
+![](https://github-readme-stats.vercel.app/api?username=PRO100BYTE&limit=5)
 
 </div>
 
