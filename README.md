@@ -103,9 +103,10 @@ NE-DOS — это современная веб-интерпретация кл�
 
 | Канал | Ссылка | Назначение |
 |-------|--------|------------|
-| **🌐 Наш сайт*** | [pro100byte.ru](https://pro100byte.ru) | * временно недоступен |
+| **🌐 Наш сайт** | [pro100byte.ru](https://pro100byte.ru) | Информация о команде в стильном дизайне |
 | **📧 Основной Email** | [community@pro100byte.ru](mailto:community@pro100byte.ru) | По всем вопросам, предложениям о сотрудничестве |
 | **💬 Telegram** | [@thedayg0ne](https://t.me/thedayg0ne) | Непосредственная связь с лидером команды |
+| **💬 Telegram канал** | [@PRO100BYTE](https://t.me/PRO100BYTE) | Канал команды в Telegram: новости и уведомления |
 | **🐙 Наш GitHub** | [PRO100BYTE](https://github.com/PRO100BYTE) | Все наши проекты и исходный код |
 | **🎮 ProjectArcade** | [projectarcade.ru](https://projectarcade.ru) | Сайт нашего флагманского проекта |
 
